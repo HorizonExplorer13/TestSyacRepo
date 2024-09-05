@@ -1,0 +1,22 @@
+<div>
+    <form [formGroup]="createProductForm">
+        @for(item of getArrayFormControls(); track $index){
+            <div [formGroup]="item">
+                <div>
+                    <label for="">Name</label>
+                    <input type="text" formControlName="productName">
+                </div>
+                <div>
+                    <label for="">Product Code</label>
+                    <input type="text" formControlName="productoCode">
+                </div>
+                <div>
+                    <label for="">Product Unit value</label>
+                    <input type="number" formControlName="productUnitValue">
+                </div>
+            </div>
+        }
+        <button (click)="addProduct()">Add product</button>
+    </form>
+    <button (click)="createProducts()">testvalues</button>
+</div>

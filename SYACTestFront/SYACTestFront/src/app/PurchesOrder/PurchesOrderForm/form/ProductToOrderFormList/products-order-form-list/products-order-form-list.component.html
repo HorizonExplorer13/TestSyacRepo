@@ -1,0 +1,33 @@
+<div>
+    <form [formGroup]="FormRequestedProducts" >
+        <div>
+            <label for="">test text</label>
+            <input type="text" formControlName="testText">
+            @if(FormRequestedProducts.controls.testText.touched && FormRequestedProducts.controls.testText.errors?.['required']){
+                <p>pls define a text </p>
+            }   
+        </div>
+        
+        @for ( item of getTextArrayControls();track $index;  ) {
+            <div formArrayName="textArray">
+            <div [formGroupName]="$index">
+                    <label for="">text array</label>
+                    <input type="text" formControlName="textarrayobject"> 
+                    <button (click)="removeItem($index)">removeItem</button>
+                @if(getTextArrayControl($index).touched && getTextArrayControl($index).errors?.['required']){
+                    <p>arrayerror</p>
+                }
+                
+            </div>
+            </div>
+        }@if(arraymessageerror != ''){
+            <p>{{arraymessageerror}}</p>
+        }
+        
+
+        
+        <button (click)="AddItem()">addItem</button>
+        
+        <button type="submit" (click)="onSubmit()">send</button>
+    </form>
+</div>

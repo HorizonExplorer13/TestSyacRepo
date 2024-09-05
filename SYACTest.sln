@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SYACTest", "SYACTest\SYACTest.csproj", "{F816AFED-FA83-401E-A128-F163C629E6DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F816AFED-FA83-401E-A128-F163C629E6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F816AFED-FA83-401E-A128-F163C629E6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F816AFED-FA83-401E-A128-F163C629E6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F816AFED-FA83-401E-A128-F163C629E6DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2317C036-DE7F-45AB-8B4D-5FC3BB054D3A}
+	EndGlobalSection
+EndGlobal

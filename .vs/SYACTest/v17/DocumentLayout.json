@@ -1,0 +1,513 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\services\\productsservices\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\services\\productsservices\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\auxservices\\middlewares\\seeddatamiddlewareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\auxservices\\middlewares\\seeddatamiddlewareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\entitys\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\entitys\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\appdbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\appdbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\services\\purchesorderservice\\purchesorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\services\\purchesorderservice\\purchesorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\controllers\\products\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\controllers\\products\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\controllers\\purchesordercontroller\\purchesordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\controllers\\purchesordercontroller\\purchesordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\dtos\\productsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\dtos\\productsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\dtos\\purchesorders\\purchesorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\dtos\\purchesorders\\purchesorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\dtos\\purchesorders\\orderproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\dtos\\purchesorders\\orderproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\services\\purchesorderservice\\ipurchesorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\services\\purchesorderservice\\ipurchesorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\controllers\\clients\\clientscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\controllers\\clients\\clientscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\dtos\\purchesorders\\createpurchesorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\dtos\\purchesorders\\createpurchesorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\auxmodels\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\auxmodels\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\entitys\\purchesorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\entitys\\purchesorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\entitys\\orderproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\entitys\\orderproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\entitys\\clientsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\entitys\\clientsentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\services\\productsservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\services\\productsservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\dtos\\orderproduct\\orderproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\dtos\\orderproduct\\orderproductsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\dtos\\createclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\dtos\\createclientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\services\\clientsservice\\clientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\services\\clientsservice\\clientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\services\\clientsservice\\iclientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\services\\clientsservice\\iclientsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\syactest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\syactest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\auxmodels\\clientslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\auxmodels\\clientslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\migrations\\20240824151233_firstmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\migrations\\20240824151233_firstmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user02\\source\\repos\\SYACTest\\SYACTest\\Entitys\\ProductsToPurchs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\migrations\\20240824162121_secondmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\migrations\\20240824162121_secondmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|d:\\repos\\syactest\\migrations\\20240827014544_firstmigposttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F816AFED-FA83-401E-A128-F163C629E6DD}|SYACTest\\SYACTest.csproj|solutionrelative:syactest\\migrations\\20240827014544_firstmigposttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeedDataMiddlewareService.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\AuxServices\\Middlewares\\SeedDataMiddlewareService.cs",
+              "RelativeDocumentMoniker": "SYACTest\\AuxServices\\Middlewares\\SeedDataMiddlewareService.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\AuxServices\\Middlewares\\SeedDataMiddlewareService.cs",
+              "RelativeToolTip": "SYACTest\\AuxServices\\Middlewares\\SeedDataMiddlewareService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwCQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T00:59:42.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\Controllers\\Products\\ProductoController.cs",
+              "RelativeDocumentMoniker": "SYACTest\\Controllers\\Products\\ProductoController.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\Controllers\\Products\\ProductoController.cs",
+              "RelativeToolTip": "SYACTest\\Controllers\\Products\\ProductoController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowC8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:30:33.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PurchesOrderController.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\Controllers\\PurchesOrderController\\PurchesOrderController.cs",
+              "RelativeDocumentMoniker": "SYACTest\\Controllers\\PurchesOrderController\\PurchesOrderController.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\Controllers\\PurchesOrderController\\PurchesOrderController.cs",
+              "RelativeToolTip": "SYACTest\\Controllers\\PurchesOrderController\\PurchesOrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:30:33.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderProducts.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\Entitys\\OrderProducts.cs",
+              "RelativeDocumentMoniker": "SYACTest\\Entitys\\OrderProducts.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\Entitys\\OrderProducts.cs",
+              "RelativeToolTip": "SYACTest\\Entitys\\OrderProducts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:33:46.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\AppDbContext\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "SYACTest\\AppDbContext\\AppDBContext.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\AppDbContext\\AppDBContext.cs",
+              "RelativeToolTip": "SYACTest\\AppDbContext\\AppDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:30:33.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientsControllers.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\Controllers\\Clients\\ClientsControllers.cs",
+              "RelativeDocumentMoniker": "SYACTest\\Controllers\\Clients\\ClientsControllers.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\Controllers\\Clients\\ClientsControllers.cs",
+              "RelativeToolTip": "SYACTest\\Controllers\\Clients\\ClientsControllers.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAewBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:30:33.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\appsettings.json",
+              "RelativeDocumentMoniker": "SYACTest\\appsettings.json",
+              "ToolTip": "D:\\repos\\SYACTest\\appsettings.json",
+              "RelativeToolTip": "SYACTest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-24T19:30:33.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Productservices.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\Services\\ProductsServices\\Productservices.cs",
+              "RelativeDocumentMoniker": "SYACTest\\Services\\ProductsServices\\Productservices.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\Services\\ProductsServices\\Productservices.cs",
+              "RelativeToolTip": "SYACTest\\Services\\ProductsServices\\Productservices.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAUwFYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:30:33.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PurchesOrderDTO.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\DTOs\\PurchesOrders\\PurchesOrderDTO.cs",
+              "RelativeDocumentMoniker": "SYACTest\\DTOs\\PurchesOrders\\PurchesOrderDTO.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\DTOs\\PurchesOrders\\PurchesOrderDTO.cs",
+              "RelativeToolTip": "SYACTest\\DTOs\\PurchesOrders\\PurchesOrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:30:33.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsDTO.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\DTOs\\ProductsDTO.cs",
+              "RelativeDocumentMoniker": "SYACTest\\DTOs\\ProductsDTO.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\DTOs\\ProductsDTO.cs",
+              "RelativeToolTip": "SYACTest\\DTOs\\ProductsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:30:33.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\Entitys\\Products.cs",
+              "RelativeDocumentMoniker": "SYACTest\\Entitys\\Products.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\Entitys\\Products.cs",
+              "RelativeToolTip": "SYACTest\\Entitys\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:30:33.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\Program.cs",
+              "RelativeDocumentMoniker": "SYACTest\\Program.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\Program.cs",
+              "RelativeToolTip": "SYACTest\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:30:33.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PurchesOrderService.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\Services\\PurchesOrderService\\PurchesOrderService.cs",
+              "RelativeDocumentMoniker": "SYACTest\\Services\\PurchesOrderService\\PurchesOrderService.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\Services\\PurchesOrderService\\PurchesOrderService.cs",
+              "RelativeToolTip": "SYACTest\\Services\\PurchesOrderService\\PurchesOrderService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:30:33.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderProductsDTO.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\DTOs\\PurchesOrders\\OrderProductsDTO.cs",
+              "RelativeDocumentMoniker": "SYACTest\\DTOs\\PurchesOrders\\OrderProductsDTO.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\DTOs\\PurchesOrders\\OrderProductsDTO.cs",
+              "RelativeToolTip": "SYACTest\\DTOs\\PurchesOrders\\OrderProductsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T20:57:44.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PurchesOrders.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\Entitys\\PurchesOrders.cs",
+              "RelativeDocumentMoniker": "SYACTest\\Entitys\\PurchesOrders.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\Entitys\\PurchesOrders.cs",
+              "RelativeToolTip": "SYACTest\\Entitys\\PurchesOrders.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:30:33.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreatePurchesOrderDTO.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\DTOs\\PurchesOrders\\CreatePurchesOrderDTO.cs",
+              "RelativeDocumentMoniker": "SYACTest\\DTOs\\PurchesOrders\\CreatePurchesOrderDTO.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\DTOs\\PurchesOrders\\CreatePurchesOrderDTO.cs",
+              "RelativeToolTip": "SYACTest\\DTOs\\PurchesOrders\\CreatePurchesOrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:30:33.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPurchesOrderService.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\Services\\PurchesOrderService\\IPurchesOrderService.cs",
+              "RelativeDocumentMoniker": "SYACTest\\Services\\PurchesOrderService\\IPurchesOrderService.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\Services\\PurchesOrderService\\IPurchesOrderService.cs",
+              "RelativeToolTip": "SYACTest\\Services\\PurchesOrderService\\IPurchesOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:30:33.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\AuxModels\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "SYACTest\\AuxModels\\ServiceResponse.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\AuxModels\\ServiceResponse.cs",
+              "RelativeToolTip": "SYACTest\\AuxModels\\ServiceResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:30:33.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClientsEntity.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\Entitys\\ClientsEntity.cs",
+              "RelativeDocumentMoniker": "SYACTest\\Entitys\\ClientsEntity.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\Entitys\\ClientsEntity.cs",
+              "RelativeToolTip": "SYACTest\\Entitys\\ClientsEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:30:33.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240827014544_FirstMIGPostTest.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\Migrations\\20240827014544_FirstMIGPostTest.cs",
+              "RelativeDocumentMoniker": "SYACTest\\Migrations\\20240827014544_FirstMIGPostTest.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\Migrations\\20240827014544_FirstMIGPostTest.cs",
+              "RelativeToolTip": "SYACTest\\Migrations\\20240827014544_FirstMIGPostTest.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T01:45:45.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateClientDTO.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\DTOs\\CreateClientDTO.cs",
+              "RelativeDocumentMoniker": "SYACTest\\DTOs\\CreateClientDTO.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\DTOs\\CreateClientDTO.cs",
+              "RelativeToolTip": "SYACTest\\DTOs\\CreateClientDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:30:33.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\Services\\ProductsServices\\IProductService.cs",
+              "RelativeDocumentMoniker": "SYACTest\\Services\\ProductsServices\\IProductService.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\Services\\ProductsServices\\IProductService.cs",
+              "RelativeToolTip": "SYACTest\\Services\\ProductsServices\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:30:33.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "orderProductsDTO.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\DTOs\\orderProduct\\orderProductsDTO.cs",
+              "RelativeDocumentMoniker": "SYACTest\\DTOs\\orderProduct\\orderProductsDTO.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\DTOs\\orderProduct\\orderProductsDTO.cs",
+              "RelativeToolTip": "SYACTest\\DTOs\\orderProduct\\orderProductsDTO.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T20:15:59.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClientsService.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\Services\\ClientsService\\ClientsService.cs",
+              "RelativeDocumentMoniker": "SYACTest\\Services\\ClientsService\\ClientsService.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\Services\\ClientsService\\ClientsService.cs",
+              "RelativeToolTip": "SYACTest\\Services\\ClientsService\\ClientsService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAvwBwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:30:33.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IClientsService.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\Services\\ClientsService\\IClientsService.cs",
+              "RelativeDocumentMoniker": "SYACTest\\Services\\ClientsService\\IClientsService.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\Services\\ClientsService\\IClientsService.cs",
+              "RelativeToolTip": "SYACTest\\Services\\ClientsService\\IClientsService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:30:33.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SYACTest.csproj",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\SYACTest.csproj",
+              "RelativeDocumentMoniker": "SYACTest\\SYACTest.csproj",
+              "ToolTip": "D:\\repos\\SYACTest\\SYACTest.csproj",
+              "RelativeToolTip": "SYACTest\\SYACTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-24T19:30:33.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductsToPurchs.cs",
+              "DocumentMoniker": "C:\\Users\\user02\\source\\repos\\SYACTest\\SYACTest\\Entitys\\ProductsToPurchs.cs",
+              "ToolTip": "C:\\Users\\user02\\source\\repos\\SYACTest\\SYACTest\\Entitys\\ProductsToPurchs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:30:33.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240824162121_secondMIG.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\Migrations\\20240824162121_secondMIG.cs",
+              "RelativeDocumentMoniker": "SYACTest\\Migrations\\20240824162121_secondMIG.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\Migrations\\20240824162121_secondMIG.cs",
+              "RelativeToolTip": "SYACTest\\Migrations\\20240824162121_secondMIG.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:30:33.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClientsList.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\AuxModels\\ClientsList.cs",
+              "RelativeDocumentMoniker": "SYACTest\\AuxModels\\ClientsList.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\AuxModels\\ClientsList.cs",
+              "RelativeToolTip": "SYACTest\\AuxModels\\ClientsList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:30:33.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240824151233_FirstMIG.cs",
+              "DocumentMoniker": "D:\\repos\\SYACTest\\Migrations\\20240824151233_FirstMIG.cs",
+              "RelativeDocumentMoniker": "SYACTest\\Migrations\\20240824151233_FirstMIG.cs",
+              "ToolTip": "D:\\repos\\SYACTest\\Migrations\\20240824151233_FirstMIG.cs",
+              "RelativeToolTip": "SYACTest\\Migrations\\20240824151233_FirstMIG.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:30:33.346Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

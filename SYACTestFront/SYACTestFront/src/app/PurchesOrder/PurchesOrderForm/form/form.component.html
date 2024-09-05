@@ -1,0 +1,50 @@
+<div class="MainContainer">
+  <form [formGroup]="createPurchesOrder" >
+    <div class="">
+      <h2>Datos del cliente</h2>
+      <div class="">
+        <label for="">Nombre</label>
+        <input type="text" formControlName="clientName"/>
+      </div>
+      <div>
+        <label for="">Documento</label>
+        <input type="text" formControlName="clientDocument"/>
+      </div>
+      <div>
+        <label for="">Direccion</label>
+        <input type="text" formControlName="clientAddrees"/>
+      </div>
+      <div>
+        <label for="">Delivery Address</label>
+        <input type="text" formControlName="deliveryAddress">
+      </div>
+      @for(item of getaddItemsControls(); track $index){
+      <div [formGroup]="item">
+        <div>
+          <label for="">product</label>
+          <select name="" id="" formControlName="productId">
+            @for(product of productsList; track $index ){
+            <option [value]="product.productId">
+              {{ product.productname }}
+            </option>
+            }
+          </select>
+          <span for="">code</span>
+            <p>{{code}}</p>
+            <label for="">Unit value</label>
+            <p>{{productUnitValue}}</p>
+          <label for="">quantity</label>
+          <input type="number" formControlName="quantity"/>
+          <p>{{item.get('partialValue')?.value}}</p>
+        </div>  
+      </div>
+      <button (click)="removeItem(item,$index)">remove product</button>
+      }
+    </div>
+    <button (click)="addItem()">Add Product</button>
+    <div>
+      <p>{{createPurchesOrder.controls.totalValue.value}}</p>
+    </div>
+  </form>
+  <button (click)="getvalues()">testvalues</button>
+</div>

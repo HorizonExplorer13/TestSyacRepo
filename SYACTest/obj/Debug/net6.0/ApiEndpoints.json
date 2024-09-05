@@ -1,0 +1,90 @@
+[
+  {
+    "ContainingType": "SYACTest.Controllers.Clients.ClientsControllers",
+    "Method": "createclient",
+    "RelativePath": "Api/Clients/CreateClient",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createClient",
+        "Type": "SYACTest.DTOs.CreateClientDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SYACTest.Controllers.Clients.ClientsControllers",
+    "Method": "GetClientList",
+    "RelativePath": "Api/Clients/GetClientsList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SYACTest.Controllers.Products.ProductoController",
+    "Method": "CreateProducts",
+    "RelativePath": "Api/Products/CreateProducts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "products",
+        "Type": "System.Collections.Generic.List\u00601[[SYACTest.DTOs.ProductsDTO, SYACTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SYACTest.Controllers.Products.ProductoController",
+    "Method": "getlist",
+    "RelativePath": "Api/Products/getproductslist",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SYACTest.Controllers.PurchesOrderController.PurchesOrderController",
+    "Method": "CreatePurchesOrder",
+    "RelativePath": "Api/PurchesOrders/CreateOrder",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createPurchesOrder",
+        "Type": "SYACTest.DTOs.PurchesOrders.CreatePurchesOrderDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SYACTest.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[SYACTest.WeatherForecast, SYACTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
